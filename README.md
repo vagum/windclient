@@ -4,6 +4,10 @@
 
 https://github.com/vagum/wind
 
+ссылка для импорта постман коллекции
+
+https://github.com/vagum/wind/blob/main/Wind.postman_collection.json
+
 ================ 13 Http Client Config Env =====================
 
 Временные метки по видео предыдущего урока:
